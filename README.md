@@ -1,2 +1,2 @@
-# cyber-cemetery
-keeping those we've lost alive through stories 
+# camron-site
+finally making an internet identity
